@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestList {
+public class ArrayListTest {
     @Test
     public void testListAdd() {
         List<String> list = new ArrayList<>() ;

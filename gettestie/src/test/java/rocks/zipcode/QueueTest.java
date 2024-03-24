@@ -4,9 +4,8 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.LinkedList;
-import java.util.Queue;
 
-public class TestQueue {
+public class QueueTest {
     @Test
     public void testQueuePush(){
         LinkedList<String> queue = new LinkedList<>();

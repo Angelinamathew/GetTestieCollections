@@ -3,9 +3,8 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.ArrayDeque;
-import java.util.Queue;
 
-public class DequeueTest {
+public class ArrayDequeueTest {
     @Test
     public void testDequeueAdd(){
         ArrayDeque<String> queue = new ArrayDeque<>();
